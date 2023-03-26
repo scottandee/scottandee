@@ -8,7 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/scott__andee" target="blank"><img src="https://img.shields.io/twitter/follow/scott__andee?logo=twitter&style=for-the-badge" alt="scott__andee" /></a> </p>
 
-- 🌱 I’m currently learning **C** and **python**
+- 🌱 I’m currently learning **C** and **Python**
+
+- 💬 Ask me about **C** and **Python**
 
 - 📫 How to reach me **andeeolayinkascott@gmail.com**
 
