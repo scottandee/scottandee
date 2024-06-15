@@ -22,7 +22,7 @@
 <a href="https://www.instagram.com/scott__andee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scott_andee" height="40" width="50" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p>
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
