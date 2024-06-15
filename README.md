@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scottandee" alt="scottandee" /></a> </p>
 <p align="left"> <a href="https://twitter.com/scott__andee" target="blank"><img src="https://img.shields.io/twitter/follow/scott__andee?logo=twitter&style=for-the-badge" alt="scott__andee" /></a> </p>
 
-- 🌱 I’m currently learning **C** and **Python**
+<p>I'm a passionate software engineer who graduated from the ALX software engineering programme in April 2024. I was able to get a grasp of the basic architecture of web applications and how they are built from the ground up. I have built one full-stack application, and two backend applications. I have used a series of programming languages and tools: Python, JavaScript (and their frameworks), C, and relational & non-relational databases. I firmly believe that while languages are merely tools, the programmer's thought process is the key element.</p>
 
-- 💬 Ask me about **C** and **Python**
+- 🌱 I’m currently working with **NestJs** and **Relational Databases**
 
 - 📫 How to reach me **andeeolayinkascott@gmail.com**
 
