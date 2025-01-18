@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scottandee" alt="scottandee" /></a> </p>
 <p align="left"> <a href="https://twitter.com/scott__andee" target="blank"><img src="https://img.shields.io/twitter/follow/scott__andee?logo=twitter&style=for-the-badge" alt="scott__andee" /></a> </p>
 
-<p>I'm a passionate software engineer from Lagos, Nigeria. I firmly believe that while languages are merely tools, a programmer's thought process is the key element to developping efficient and effective software.</p>
+<p>I'm a passionate software engineer from Lagos, Nigeria. I firmly believe that while languages are merely tools, a programmer's thought process is the key element to developing efficient and effective software.</p>
 
 - 🌱 I’m currently working with **NestJs** and **Relational Databases**
 
