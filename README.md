@@ -20,7 +20,11 @@
 **Languages and Tools:**
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=c,python,flask,nodejs,express,ts,nest,mongo,postgres,mysql,redis,bootstrap,html,css,js,react,tailwind,sass,linux,bash&perline=10&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,flask,nodejs,express,ts,nest,mongo,postgres,mysql,redis,bootstrap,html,css,js,react,tailwind,sass,linux,bash&perline=10&theme=light" />
+  </a>
+</p>
 
 <br >
 
