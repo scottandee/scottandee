@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/sQ89pjk.png">
+<p align="center"><img width="80%" alt="Hello, I'm Andee. I build things for the web" src="./assets/readme-header.png" /></p>
 
 <br>
 
