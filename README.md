@@ -32,15 +32,19 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scottandee&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottandee&show_icons=true&layout=compact&langs_count=8"/>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scottandee&show_icons=true&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottandee&show_icons=true&layout=compact&langs_count=8"/>
+  </p>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=scottandee&hide_border=true" />
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=scottandee&hide_border=true" />
+  </p>
 </details>
 
 <details>
