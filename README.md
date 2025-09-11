@@ -17,8 +17,9 @@
 - 🎶 Music helps me focus (lo-fi for code, Afro-gospel for everything else).  
 - 📫 Feel free to reach out to me at [andeeolayinkascott@gmail.com](mailto:andeeolayinkascott@gmail.com)
 
-### Languages and Tools:
-
+**Languages and Tools:**
+<br />
+<br />
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash"></code>
@@ -33,8 +34,6 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="redis"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="heroku"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" alt="postman"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
@@ -60,5 +59,14 @@
 <details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
+<ul>
+  <li><b>💻 OS:</b> Windows & WSL (Ubuntu)</li>
+  <li><b>🖥️ Laptop:</b> HP Pavilion 15</li>
+  <li><b>🌐 Browser:</b> Google Chrome</li>
+  <li><b>⌨️ Terminal:</b> Windows Terminal / Ubuntu Bash</li>
+  <li><b>📝 Code Editor:</b> VS Code (my go-to), Vim (on my hacker mode days)</li>
+  <li><b>⚙️ Other Tools:</b> Postman, Render, Heroku, Vercel</li>
+  <li><b>📡 To Stay Updated:</b> X (Twitter), TLDR, Hacker News</li>
+</ul>
 </details>
 
