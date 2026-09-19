@@ -15,6 +15,6 @@
 </p>
 <br>
 <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=scottandee&hide_border=true" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=scottandee&hide_border=true"/>
 </p>
 
